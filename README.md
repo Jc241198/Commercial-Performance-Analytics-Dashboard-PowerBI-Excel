@@ -29,7 +29,14 @@ The client, a medical equipment manufacturer, lacked actionable visibility into 
 
 📊 Dashboard Views (Screenshots)
 
+### 📅 Monthly Revenue Overview  
+![Monthly Revenue Overview](./Screenshot_20250621-235403.M365%20Copilot.png)
 
+### 👥 Top 100 Customers Analysis  
+![Top Customers Overview](./Screenshot_20250621-235617.M365%20Copilot.png)
+
+### 🏙️ Territory-Wise Revenue Overview  
+![Territory Revenue Overview](./Screenshot_20250621-235715.M365%20Copilot.png)
 
 Key Insights Delivered
 
