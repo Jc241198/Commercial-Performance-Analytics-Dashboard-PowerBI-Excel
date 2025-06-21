@@ -34,7 +34,7 @@ The client, a medical equipment manufacturer, lacked actionable visibility into 
 Key Insights Delivered
 
 - **March** recorded highest monthly revenue of ₹16.08B.
-- **Top 50 customers** contributed ~6% of total revenue.
+- **Top 100 customers** contributed ~6% of total revenue.
 - **Pune** and **Hyderabad** led in city-wise sales.
 - **Discounting** consistent across all channels (~7.5%).
 - **Forecast for May**: ₹1,526 Cr based on past trend logic.
