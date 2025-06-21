@@ -43,9 +43,9 @@ Key Insights Delivered
 
 ## 📁 Files Included
 
-- `Cleaned_Data.xlsx` – Cleaned and prepped dataset  
+- `Cleaned_Data.xlsx` – Cleaned and prepped dataset
 - `Insights Report.pdf` – Business insights and trends  
-- `Dashboard Screenshots/` – High-quality visuals
+- `Dashboard Screenshots/` – High-quality visuals along with PPT file.
 
 📌 How It Helps Recruiters
 
