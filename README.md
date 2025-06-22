@@ -27,16 +27,16 @@ The client, a medical equipment manufacturer, lacked actionable visibility into 
   - Customer-wise segmentation and contribution percentage
 - All visuals respond to slicers for **Month**, **Product Category**, **Region**, and **Channel**.
 
-📊 Dashboard Views (Screenshots)
+## 📊 Dashboard Views (Screenshots)
 
 ### 📅 Monthly Revenue Overview  
-![Monthly Revenue Overview](./Screenshot_20250621-235403.M365%20Copilot.png)
+![Monthly Revenue Overview](./Monthly%20Revenue.png)
 
 ### 👥 Top 100 Customers Analysis  
-![Top Customers Overview](./Screenshot_20250621-235617.M365%20Copilot.png)
+![Top Customers Overview](./Customer%20Wise%20Analysis.png)
 
 ### 🏙️ Territory-Wise Revenue Overview  
-![Territory Revenue Overview](./Screenshot_20250621-235715.M365%20Copilot.png)
+![Territory Revenue Overview](./City%20Wise%20Analysis.png)
 
 Key Insights Delivered
 
